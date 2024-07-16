@@ -1,5 +1,6 @@
-Screenmatch - Catálogo de Libros
-Screenmatch es una aplicación Java/Spring Boot que permite a los usuarios buscar y gestionar un catálogo de libros. Utiliza la API de Gutendex para obtener información de libros de Project Gutenberg. La aplicación permite realizar diversas operaciones, como buscar libros por título, listar libros registrados, listar autores, y más.
+Catálogo de Libros
+
+Catalogo de libros es una aplicación Java/Spring Boot que permite a los usuarios buscar y gestionar un catálogo de libros. Utiliza la API de Gutendex para obtener información de libros de Project Gutenberg. La aplicación permite realizar diversas operaciones, como buscar libros por título, listar libros registrados, listar autores, y más.
 
 Características
 Buscar libro por título: Permite al usuario buscar libros en la base de datos por su título.
